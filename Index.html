@@ -9,6 +9,13 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="style.css">
 
+    <!-- test fenetre modal -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+              
+
 
     <title>Book Anciens</title>
   </head>
@@ -17,15 +24,13 @@
 
   	  <div class="container-fluid">
       <img class="logo2" src="https://wildcodeschool.fr/wp-content/uploads/2017/02/logo_orange_small.jpg" alt="logo" width="200px" height="250px"/>
-  		<h1>Wild Code School</h1>
+  		<h1>BOOK<br>DES ANCIENS</h1>
+
       </div>
 		<p class="intro">La Wild Code School propose des formations développeur web, c'est un réseau d'écoles dans 14 villes en France et dans quelques pays européens. Ouvertes à tous et sans prérequis de diplôme. Cette page a pour but de vous présenter l'ensemble des promotions accompagné des profils de chacun des nouveaux développeurs sur le campus de Reims.</p>
     </header>
 
-  <nav>
-  
 
-  </nav>
 
 <!-- Arthemis -->
 
@@ -37,7 +42,28 @@
             <img class="card-img-top img-fluid" src="Premierepromo/Anahita.jpg" alt="Anahita">
             <div class="card-body">
               <h4 class="card-title">Anahita Vahdani</h4>
-              <a href="#!" class="btn btn-warning">Plus d'information</a>   
+              <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#AnahitaModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="AnahitaModal" tabindex="-1" role="dialog" aria-labelledby="AnahitaModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="AnahitaModal">Anahita Vahdani</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
               <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
             </div>
         </div>
@@ -46,7 +72,27 @@
             <img class="card-img-top img-fluid" src="Premierepromo/Anthony.jpg" alt="Anthony">
             <div class="card-body">
               <h4 class="card-title">Anthony Fischer</h4>
-              <a href="#!" class="btn btn-warning">Plus d'information</a>
+              <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#AnthonyModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="AnthonyModal" tabindex="-1" role="dialog" aria-labelledby="AnthonyModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="AnthonyModal">Anthony Fisher</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
               <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>  
             </div>
           </div>
@@ -55,7 +101,27 @@
           <img class="card-img-top img-fluid" src="Premierepromo/Pierre.jpg" alt="Pierre">
           <div class="card-body">
             <h4 class="card-title">Pierre Dumay</h4>
-            <a href="#!" class="btn btn-warning">Plus d'information</a>   
+            <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#PierreModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="PierreModal" tabindex="-1" role="dialog" aria-labelledby="PierreModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="PierreModal">Pierre Dumay</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>   
             <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
           </div>
         </div>
@@ -64,7 +130,27 @@
           <img class="card-img-top img-fluid" src="Premierepromo/Tanguy.jpg" alt="Tanguy">
           <div class="card-body">
             <h4 class="card-title">Tanguy Marlot</h4>
-            <a href="#!" class="btn btn-warning">Plus d'information</a>
+            <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#TanguyModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="TanguyModal" tabindex="-1" role="dialog" aria-labelledby="TanguyModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="TanguyModal">Tanguy Marlot</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
             <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
           </div>
         </div>
@@ -73,7 +159,27 @@
         <img class="card-img-top img-fluid" src="Premierepromo/Arnaud.jpg" alt="Arnaud">
         <div class="card-body">
           <h4 class="card-title">Arnaud Deschamps</h4>
-          <a href="#!" class="btn btn-warning">Plus d'information</a>
+         <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#ArnaudModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="ArnaudModal" tabindex="-1" role="dialog" aria-labelledby="ArnaudModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="ArnaudModal">Arnaud Deschamps</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
           <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>   
         </div>
       </div>
@@ -82,7 +188,27 @@
         <img class="card-img-top img-fluid" src="Premierepromo/ArnaudG.jpg" alt="ArnaudG">
         <div class="card-body">
             <h4 class="card-title">Arnaud Gadroy</h4>
-            <a href="#!" class="btn btn-warning">Plus d'information</a>
+            <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#ArnaudGModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="ArnaudGModal" tabindex="-1" role="dialog" aria-labelledby="ArnaudGModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="ArnaudGModal">Arnaud Gadroy</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
             <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>   
           </div>
         </div>
@@ -91,7 +217,27 @@
         <img class="card-img-top img-fluid" src="Premierepromo/Aurélie.jpg" alt="Aurelie">
         <div class="card-body">
           <h4 class="card-title">Aurelie Bayre</h4>
-          <a href="#!" class="btn btn-warning">Plus d'information</a>
+          <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#AurélieModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="AurélieModal" tabindex="-1" role="dialog" aria-labelledby="AurélieModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="AurélieModal">Aurélie Bayre</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
           <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>             
         </div>
       </div>
@@ -101,7 +247,27 @@
         <img class="card-img-top img-fluid" src="Premierepromo/Dorian.jpg" alt="Dorian">
         <div class="card-body">
           <h4 class="card-title">Dorian Massot</h4>
-          <a href="#!" class="btn btn-warning">Plus d'information</a>
+          <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#DorianModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="DorianModal" tabindex="-1" role="dialog" aria-labelledby="DorianModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="DorianModal">Dorian Massot</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
           <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>          
         </div>
       </div>
@@ -110,7 +276,27 @@
         <img class="card-img-top img-fluid" src="Premierepromo/Florian.jpg" alt="Florian">
         <div class="card-body">
           <h4 class="card-title">Florian Hourlier</h4>
-          <a href="#!" class="btn btn-warning">Plus d'information</a>
+          <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#FlorianModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="FlorianModal" tabindex="-1" role="dialog" aria-labelledby="FlorianModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="FlorianModal">Florian Hourlier</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
           <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> 
         </div>
       </div>
@@ -119,7 +305,27 @@
         <img class="card-img-top img-fluid" src="Premierepromo/Khalid.jpg" alt="Khalid">
         <div class="card-body">
           <h4 class="card-title">Khalid El Idrissi</h4>
-          <a href="#!" class="btn btn-warning">Plus d'information</a>
+          <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#KhalidModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="KhalidModal" tabindex="-1" role="dialog" aria-labelledby="KhalidModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="KhalidModal">Khalid El Idrissi</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
           <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>   
         </div>
       </div>
@@ -128,7 +334,27 @@
         <img class="card-img-top img-fluid" src="Premierepromo/Max.jpg" alt="Max">
         <div class="card-body">
           <h4 class="card-title">Max Gallois</h4>
-          <a href="#!" class="btn btn-warning">Plus d'information</a>
+          <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#MaxModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="MaxModal" tabindex="-1" role="dialog" aria-labelledby="MaxModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="MaxModal">Max Gallois</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
           <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>  
         </div>
       </div>
@@ -137,7 +363,27 @@
         <img class="card-img-top img-fluid" src="Premierepromo/Maxence.jpg" alt="Maxence">
         <div class="card-body">
           <h4 class="card-title">Maxence Millescamps</h4>
-          <a href="#!" class="btn btn-warning">Plus d'information</a>
+          <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#MaxenceModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="MaxenceModal" tabindex="-1" role="dialog" aria-labelledby="MaxenceModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="MaxenceModal">Maxence Millescamps</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
           <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>   
         </div>
       </div>
@@ -146,7 +392,27 @@
         <img class="card-img-top img-fluid" src="Premierepromo/Philippe.jpg" alt="Philippe">
         <div class="card-body">
           <h4 class="card-title">Philippe Tarte</h4>
-          <a href="#!" class="btn btn-warning">Plus d'information</a>
+          <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#PhilippeModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="PhilippeModal" tabindex="-1" role="dialog" aria-labelledby="PhilippeModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="PhilippeModal">Philippe Tarte</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
           <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>   
         </div>
       </div>
@@ -155,7 +421,27 @@
         <img class="card-img-top img-fluid" src="Premierepromo/Thibaud.jpg" alt="Thibaud">
         <div class="card-body">
           <h4 class="card-title">Thibaud Royer</h4>
-          <a href="#!" class="btn btn-warning">Plus d'information</a>   
+          <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#ThibaudModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="ThibaudModal" tabindex="-1" role="dialog" aria-labelledby="ThibaudModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="ThibaudModal">Thibaud Royer</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>   
           <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
         </div>
       </div>
@@ -177,7 +463,27 @@
             <img class="card-img-top img-fluid" src="PromoJS2018/Benoit300.jpg" alt="Benoit">
             <div class="card-body">
               <h4 class="card-title">Benoit Niveau</h4>
-              <a href="#!" class="btn btn-warning">Plus d'information</a>
+              <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#BenoitModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="BenoitModal" tabindex="-1" role="dialog" aria-labelledby="BenoitModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="BenoitModal">Benoit Niveau</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
               <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
             </div>
       	</div>
@@ -186,7 +492,27 @@
             <img class="card-img-top img-fluid" src="PromoJS2018/Charles300.jpg" alt="Charles">
             <div class="card-body">
               <h4 class="card-title">Charles Crepin</h4>
-              <a href="#!" class="btn btn-warning">Plus d'information</a>
+              <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#CharlesModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="CharlesModal" tabindex="-1" role="dialog" aria-labelledby="CharlesModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="CharlesModal">Charles Crepin</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
               <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
             </div>
           </div>
@@ -194,7 +520,27 @@
             <img class="card-img-top img-fluid" src="PromoJS2018/Corentin300.jpg" alt="Corentin">
             <div class="card-body">
               <h4 class="card-title flex-nwrap">Corentin De Soto Cobet</h4>
-              <a href="#!" class="btn btn-warning">Plus d'information</a>
+              <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#CorentinModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="CorentinModal" tabindex="-1" role="dialog" aria-labelledby="CorentinModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="CorentinModal">Corentin De Soto Cobet</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
               <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
             </div>
         </div>
@@ -203,7 +549,27 @@
             <img class="card-img-top img-fluid" src="PromoJS2018/Fabien300.jpg" alt="Fabien">
             <div class="card-body">
               <h4 class="card-title">Fabien Raymond</h4>
-              <a href="#!" class="btn btn-warning">Plus d'information</a>
+              <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#FabienModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="FabienModal" tabindex="-1" role="dialog" aria-labelledby="FabienModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="FabienModal">Fabien Raymond</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
               <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
             </div>
           </div>
@@ -213,7 +579,27 @@
             <img class="card-img-top img-fluid" src="PromoJS2018/Florentin300.jpg" alt="Florentin">
             <div class="card-body">
               <h4 class="card-title">Florentin Coyard</h4>
-              <a href="#!" class="btn btn-warning">Plus d'information</a>
+              <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#FlorentinModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="FlorentinModal" tabindex="-1" role="dialog" aria-labelledby="FlorentinModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="FlorentinModal">Florentin Coyard</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
               <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
             </div>
           </div>
@@ -222,7 +608,27 @@
             <img class="card-img-top img-fluid" src="PromoJS2018/Gautier300.jpg" alt="Gautier">
             <div class="card-body">
               <h4 class="card-title">Gautier Simonin</h4>
-              <a href="#!" class="btn btn-warning">Plus d'information</a>
+              <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#GautierModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="GautierModal" tabindex="-1" role="dialog" aria-labelledby="GautierModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="GautierModal">Gautier Simonin</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
               <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
             </div>
           </div>
@@ -231,7 +637,27 @@
             <img class="card-img-top img-fluid" src="PromoJS2018/Leuthsouline300.jpg" alt="Leuthsouline">
             <div class="card-body">
               <h4 class="card-title">Leuthsouline Chanthathirath</h4>
-              <a href="#!" class="btn btn-warning">Plus d'information</a>
+              <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#LeuthsoulineModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="LeuthsoulineModal" tabindex="-1" role="dialog" aria-labelledby="LeuthsoulineModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="LeuthsoulineModal">Leuthsouline Chanthathirath</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
               <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
             </div>
           </div>
@@ -240,7 +666,27 @@
             <img class="card-img-top img-fluid" src="PromoJS2018/Mathieu300.jpg" alt="Mathieu">
             <div class="card-body">
               <h4 class="card-title">Mathieu Thomas</h4>
-              <a href="#!" class="btn btn-warning">Plus d'information</a>
+             <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#MathieuModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="MathieuModal" tabindex="-1" role="dialog" aria-labelledby="MathieuModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="MathieuModal">Mathieu Thomas</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
               <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
             </div>
           </div>
@@ -249,7 +695,27 @@
               <img class="card-img-top img-fluid" src="PromoJS2018/Michael300.jpg" alt="Michaël">
               <div class="card-body">
                 <h4 class="card-title">Michaël Bourmeau</h4>
-                <a href="#!" class="btn btn-warning">Plus d'information</a>
+                <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#MichaelModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="MichaelModal" tabindex="-1" role="dialog" aria-labelledby="MichaelModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="MichaelModal">Michaël Bourmeau</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
                 <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
               </div>
             </div>
@@ -258,7 +724,27 @@
               <img class="card-img-top img-fluid" src="PromoJS2018/Michel300.jpg" alt="Michel">
               <div class="card-body">
                 <h4 class="card-title">Michel Descotes</h4>
-                <a href="#!" class="btn btn-warning">Plus d'information</a>
+                <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#MichelModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="MichelModal" tabindex="-1" role="dialog" aria-labelledby="MichelModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="MichelModal">Michel Descotes</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
                 <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
               </div>
             </div>
@@ -267,7 +753,27 @@
                 <img class="card-img-top img-fluid" src="PromoJS2018/Quentin300.jpg" alt="Quentin">
               <div class="card-body">
                 <h4 class="card-title">Quentin Da Silva</h4>
-                <a href="#!" class="btn btn-warning">Plus d'information</a>
+                <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#QuentinModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="QuentinModal" tabindex="-1" role="dialog" aria-labelledby="QuentinModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="QuentinModal">Quentin Da Silva</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
                 <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
               </div>
             </div>
@@ -276,7 +782,27 @@
               <img class="card-img-top img-fluid" src="PromoJS2018/Robin300.jpg" alt="Robin">
               <div class="card-body">
                 <h4 class="card-title">Robin Guerre</h4>
-                <a href="#!" class="btn btn-warning">Plus d'information</a>
+                <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#RobinModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="RobinModal" tabindex="-1" role="dialog" aria-labelledby="RobinModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="RobinModal">Robin Guerre</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
                 <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
               </div>
             </div>
@@ -294,7 +820,27 @@
             <img class="card-img-top img-fluid" src="PromoJava2019/alexis.jpg" alt="Alexis">
             <div class="card-body">
               <h4 class="card-title">Alexis Legrand</h4>
-              <a href="#!" class="btn btn-warning">Plus d'information</a>
+              <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#AlexisModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="AlexisModal" tabindex="-1" role="dialog" aria-labelledby="AlexisModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="AlexisModal">Alexis Legrand</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
               <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
             </div>
       	</div>
@@ -303,7 +849,27 @@
             <img class="card-img-top img-fluid" src="PromoJava2019/anabelle.jpg" alt="Anabelle">
             <div class="card-body">
               <h4 class="card-title">Anabelle Baynard</h4>
-              <a href="#!" class="btn btn-warning">Plus d'information</a>
+              <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#AnabelleModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="AnabelleModal" tabindex="-1" role="dialog" aria-labelledby="AnabelleModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="AnabelleModal">Anabelle Baynard</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
               <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
             </div>
           </div>
@@ -312,7 +878,27 @@
             <img class="card-img-top img-fluid" src="PromoJava2019/erwan.jpg" alt="Erwan">
             <div class="card-body">
               <h4 class="card-title">Erwan Geneve</h4>
-              <a href="#!" class="btn btn-warning">Plus d'information</a>
+              <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#ErwanModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="ErwanModal" tabindex="-1" role="dialog" aria-labelledby="ErwanModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="ErwanModal">Erwan Geneve</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
               <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
             </div>
         </div>
@@ -321,7 +907,27 @@
             <img class="card-img-top img-fluid" src="PromoJava2019/gaetan.jpg" alt="Gaetan">
             <div class="card-body">
               <h4 class="card-title">Gaetan Evrard</h4>
-              <a href="#!" class="btn btn-warning">Plus d'information</a>
+              <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#GaetanModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="GaetanModal" tabindex="-1" role="dialog" aria-labelledby="GaetanModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="GaetanModal">Gaetan Evrard</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
               <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
             </div>
           </div>
@@ -331,7 +937,27 @@
             <img class="card-img-top img-fluid" src="PromoJava2019/justine.jpg" alt="Justine">
             <div class="card-body">
               <h4 class="card-title">Justine Dubois</h4>
-              <a href="#!" class="btn btn-warning">Plus d'information</a>
+              <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#JustineModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="JustineModal" tabindex="-1" role="dialog" aria-labelledby="JustineModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="JustineModal">Justine Dubois</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
               <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
             </div>
           </div>
@@ -340,7 +966,27 @@
             <img class="card-img-top img-fluid" src="PromoJava2019/lucas.jpg" alt="Lucas">
             <div class="card-body">
               <h4 class="card-title">Lucas Mouraud-Chasset</h4>
-              <a href="#!" class="btn btn-warning">Plus d'information</a>
+              <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#LucasModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="LucasModal" tabindex="-1" role="dialog" aria-labelledby="LucasModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="LucasModal">Lucas Mouraud-Chasset</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
               <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
             </div>
           </div>
@@ -349,7 +995,27 @@
             <img class="card-img-top img-fluid" src="PromoJava2019/marthe.jpg" alt="Marthe">
             <div class="card-body">
               <h4 class="card-title">Marthe Charpy</h4>
-              <a href="#!" class="btn btn-warning">Plus d'information</a>
+              <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#MartheModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="MartheModal" tabindex="-1" role="dialog" aria-labelledby="MartheModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="MartheModal">Marthe Charpy</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
               <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
             </div>
           </div>
@@ -358,7 +1024,27 @@
             <img class="card-img-top img-fluid" src="PromoJava2019/mohamedk.jpg" alt="Mohamed K.">
             <div class="card-body">
               <h4 class="card-title">Mohamed Kaba</h4>
-              <a href="#!" class="btn btn-warning">Plus d'information</a>
+              <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#MohamedModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="MohamedModal" tabindex="-1" role="dialog" aria-labelledby="MohamedModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="MohamedModal">Mohamed Kaba</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
               <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
             </div>
           </div>
@@ -367,7 +1053,27 @@
               <img class="card-img-top img-fluid" src="PromoJava2019/mohamedl.jpg" alt="Mohamed L.">
               <div class="card-body">
                 <h4 class="card-title">Mohamed-Kamel Lahri</h4>
-                <a href="#!" class="btn btn-warning">Plus d'information</a>
+                <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#Mohamed-KamelModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="Mohamed-KamelModal" tabindex="-1" role="dialog" aria-labelledby="Mohamed-KamelModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="Mohamed-KamelModal">Mohamed-Kamel Larhi</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
                 <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
               </div>
             </div>
@@ -376,7 +1082,24 @@
               <img class="card-img-top img-fluid" src="PromoJava2019/nicolas.jpg" alt="Nicolas">
               <div class="card-body">
                 <h4 class="card-title">Nicolas Luzurier</h4>
-                <a href="#!" class="btn btn-warning">Plus d'information</a>
+                <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#NicolasModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="NicolasModal" tabindex="-1" role="dialog" aria-labelledby="NicolasModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">Nicolas Luzurier</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
                 <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
               </div>
             </div>
@@ -385,7 +1108,27 @@
               <img class="card-img-top img-fluid" src="PromoJava2019/tantely.jpg" alt="Tantely">
               <div class="card-body">
                 <h4 class="card-title">Maya Diane Randria</h4>
-                <a href="#!" class="btn btn-warning">Plus d'information</a>
+                <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#MayaModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="MayaModal" tabindex="-1" role="dialog" aria-labelledby="MayaModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="MayaModal">Maya Diane Randria</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
                 <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
               </div>
             </div>
@@ -394,7 +1137,27 @@
               <img class="card-img-top img-fluid" src="PromoJava2019/tony.jpg" alt="Tony">
               <div class="card-body">
                 <h4 class="card-title">Tony Chevris</h4>
-                <a href="#!" class="btn btn-warning">Plus d'information</a>
+                <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#TonyModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="TonyModal" tabindex="-1" role="dialog" aria-labelledby="TonyModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="TonyModal">Tony Chevris</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
                 <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
               </div>
             </div>
@@ -413,7 +1176,27 @@
           <img class="card-img-top img-fluid" src="JS2019/Seb.png" alt="Card image cap">
           <div class="card-body">
             <h4 class="card-title text-center">Sébastien Jolly</h4>
-            <a href="#!" class="btn btn-warning">Plus d'information</a> 
+            <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#SebastienModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="SebastienModal" tabindex="-1" role="dialog" aria-labelledby="SebastienModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="SebastienModal">Sébastien Jolly</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div> 
             <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>        
           </div>
         </div>
@@ -422,7 +1205,27 @@
           <img class="card-img-top img-fluid" src="JS2019/Mathieu.png" alt="Card image cap">
           <div class="card-body">
             <h4 class="card-title text-center">Mathieu Nicolas</h4>
-            <a href="#!" class="btn btn-warning">Plus d'information</a>    
+            <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#MathieuModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="MathieuModal" tabindex="-1" role="dialog" aria-labelledby="MathieuModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="MathieuModal">Mathieu Nicolas</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>    
             <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>     
           </div>
         </div>
@@ -431,7 +1234,27 @@
           <img class="card-img-top img-fluid" src="JS2019/Jeremy.png" alt="Card image cap">
           <div class="card-body">
             <h4 class="card-title text-center">Jeremy Figueiredo</h4>
-            <a href="#!" class="btn btn-warning">Plus d'information</a>   
+            <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#JeremyModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="JeremyModal" tabindex="-1" role="dialog" aria-labelledby="JeremyModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="JeremyModal">Jérémy Figueiredo</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>   
             <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>      
           </div>
         </div>
@@ -440,7 +1263,27 @@
           <img class="card-img-top img-fluid" src="JS2019/Grégoire.png" alt="Card image cap">
           <div class="card-body">
             <h4 class="card-title text-center">Grégoire Suray</h4>
-            <a href="#!" class="btn btn-warning">Plus d'information</a>
+            <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#GrégoireModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="GrégoireModal" tabindex="-1" role="dialog" aria-labelledby="GrégoireModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="GrégoireModal">Grégoire Suray</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
             <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>         
           </div>
         </div>
@@ -449,7 +1292,27 @@
           <img class="card-img-top img-fluid" src="JS2019/Axel.png" alt="Card image cap">
           <div class="card-body">
             <h4 class="card-title text-center">Axel Chandelier</h4>
-            <a href="#!" class="btn btn-warning">Plus d'information</a>
+            <a class="btn btn-primary" href="#!" data-toggle="modal" data-target="#AxelModal">En savoir plus</a>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="AxelModal" tabindex="-1" role="dialog" aria-labelledby="AxelModal" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="AxelModal">Axel Chandelier</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      Bonjour je m'appelle Anihata
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
             <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>         
           </div>
         </div>
