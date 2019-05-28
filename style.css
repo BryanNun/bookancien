@@ -1,12 +1,30 @@
 @media screen and (max-width: 768px)
 {
-	header{
+	header
+  {
 	background-color:#EF9A9A;
 	display: flex;
 	justify-content: flex-start;
 	}
   .github, .linkedin{
     width: 15%;
+  }
+  .container{
+  display: flex;
+  align-content: center;
+  }
+  h1
+  {
+  margin-top: 13%;
+  margin-left: 13%;
+  font-size: 40px;
+  color: black;
+  font-weight: bold;
+  text-decoration: underline;
+  }
+  p
+  {
+    font-size: 15px;
   }
 }
 
@@ -16,6 +34,10 @@
   background-color: #f3a61f;
 }
 
+.card {
+  text-align: center;
+
+}
 .card-img-top {
   border-radius: 15px;
   width: 80%;
@@ -33,6 +55,7 @@ footer{
 body
 {
   background-color: #EAEAEA;
+  font-family: 'Roboto', 'Helvetica Neue', Arial, Helvetica, sans-serif;
 }
 
 .card
@@ -40,3 +63,5 @@ body
   margin-top: 5%;
   border-radius: 5px;
 }
+
+
