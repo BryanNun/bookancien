@@ -12,10 +12,19 @@
   margin : auto;
 }
 
+.card {
+  text-align: center;
+
+}
 .card-img-top {
   border-radius: 15px;
   width: 80%;
   height: 80%;
   margin: auto;
+}
+
+.body {
+  font-family: 'Roboto', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+
 }
 
