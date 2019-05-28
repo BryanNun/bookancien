@@ -2,7 +2,7 @@
 {
 	header
   {
-	background-color:#EF9A9A;
+	background-color:#f3a61f;
 	display: flex;
 	justify-content: flex-start;
 	}
@@ -17,7 +17,7 @@
   {
   margin-top: 13%;
   margin-left: 13%;
-  font-size: 40px;
+  font-size: 30px;
   color: black;
   font-weight: bold;
   text-decoration: underline;
