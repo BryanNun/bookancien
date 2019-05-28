@@ -21,6 +21,8 @@
   color: black;
   font-weight: bold;
   text-decoration: underline;
+  font-family: "Varela Round", sans-serif;
+  font-weight: 400;
   }
   p
   {
@@ -44,6 +46,7 @@
   width: 80%;
   height: 80%;
   margin: auto;
+  margin-top: 18px;
 }
 
 footer{
