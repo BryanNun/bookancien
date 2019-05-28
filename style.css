@@ -5,11 +5,15 @@
 	display: flex;
 	justify-content: flex-start;
 	}
+  .github, .linkedin{
+    width: 15%;
+  }
 }
 
 .btn {
   display: block;
   margin : auto;
+  background-color: #f3a61f;
 }
 
 .card-img-top {
@@ -19,3 +23,20 @@
   margin: auto;
 }
 
+footer{
+  background-color: #646363;
+  color: white;
+  margin-top: 5%;
+  border-radius: 15px;
+}
+
+body
+{
+  background-color: #EAEAEA;
+}
+
+.card
+{
+  margin-top: 5%;
+  border-radius: 5px;
+}
