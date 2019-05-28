@@ -1,5 +1,115 @@
-Axel
-Grégoire
-Jeremy
-Mathieu
-Seb
+Axel : 
+
+Quelques mots de notre wilder
+
+Développeur en formation, je suis courtois, travailleur et ponctuel. Je recherche un stage afin de compléter ma formation.
+
+Langages de programmation
+
+Javascript React Node.js HTML5.0 CSS3.0
+
+Soft Skills
+
+Travail d'équipe - Autonomie - Ponctualité.
+
+Mobilité professionnelle
+
+Prêt à prendre le train tous les jours si nécessaire. Disponibilité jusque Paris.
+
+
+Github : https://github.com/Spartakyste
+Linked : https://www.linkedin.com/in/axel-chandelier-6a6079181/
+Mail : chandelieraxel0@gmail.com
+___________________________________________________________________
+Grégoire : 
+
+Quelques mots de notre wilder
+
+Avec un background de 5 ans en management et gestion, j'ai décidé de me réorienter vers le Web. Curieux et déterminé, je me donne toujours à 100% dans ce que j'entreprends.
+
+Langages de programmation
+
+Javascript React Node.js HTML5.0 CSS3.0
+
+Soft Skills
+
+Aime travailler en équipe, rigoureux et organisé.
+
+Mobilité professionnelle
+
+Reims - Bordeaux - Québec
+
+
+Github : https://github.com/Dezedene
+Linked : https://www.linkedin.com/in/gr%C3%A9goire-suray-38266a92/
+Mail : gregoire.suray@gmail.com
+___________________________________________________________________
+Jeremy : 
+
+Quelques mots de notre wilder
+
+Après huit ans d'expériences dans le Tourisme, j'ai décidé de me reconvertir afin que mon intérêt pour le web développement devienne mon métier.
+
+Langages de programmation
+
+Javascript React Node.js HTML5.0 CSS3.0
+
+Soft Skills
+
+Gestion de Projet, Autonomie, Curiosité.
+
+Mobilité professionnelle
+
+Région Parisienne, Région Grand Est
+
+
+Github : https://github.com/0figueiredo
+Linked : https://i.imgur.com/JFjk02U.png
+Mail : figueiredojeremy@gmail.com
+___________________________________________________________________
+Mathieu :
+
+Quelques mots de notre wilder
+
+Après une première vie de contrôleur de gestion, j'ai rejoint les rangs de la Wild Code School pour me reconvertir dans le développement web. Je suis 100% motivé pour réussir cette nouvelle étape professionnelle dans un domaine qui me passionne.
+
+Langages de programmation
+
+Javascript React Node.js HTML5.0 CSS3.0
+
+Soft Skills
+
+Organisation - Ecoute - Rigueur.
+
+Mobilité professionnelle
+
+Reims - Paris
+
+
+Github : https://github.com/mtthncls
+Linked : https://www.linkedin.com/in/matthieunicolas/?locale:fr_FR
+Mail : mtthncls@gmail.com
+___________________________________________________________________
+Seb : 
+
+Quelques mots de notre wilder
+
+Désireux d'en apprendre plus sur le développement web/mobile, j'ai décidé de me réorienter professionnellement et ainsi pouvoir en faire mon futur métier.
+
+Langages de programmation
+
+Javascript React Node.js HTML5.0 CSS3.0
+
+Soft Skills
+
+Résolution des problemes - Travail en équipe - Motivation
+
+Mobilité professionnelle
+
+Everywhere
+
+
+Github : https://github.com/seb879
+Linked : https://www.linkedin.com/in/s%C3%A9bastien-jolly-b48b71115/
+Mail : seb_879@hotmail.fr
+___________________________________________________________________
