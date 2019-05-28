@@ -1,10 +1,17 @@
-@media screen and (max-width: 768px)
-{
-	header{
-	background-color:#EF9A9A;
-	display: flex;
-	justify-content: flex-start;
-	}
+@media screen and (max-width: 768px){
+  .container{
+  display: flex;
+  align-content: center;}
+  h1{margin-top: 13%;
+  margin-left: 13%;
+  font-size: 50px;
+  color: black;
+  font-weight: bold;
+  text-decoration: underline;
+  }
+  p{
+    font-size: 15px;
+  }
 }
 
 .btn {
