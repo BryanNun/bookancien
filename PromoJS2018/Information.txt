@@ -19,6 +19,8 @@ En train de coder et d'acquérir de l’expérience dans ce domaine et enfin m'�
 Linked : https://www.linkedin.com/in/beno%C3%AEt-niveau-a34ba9133
 Github : https://github.com/benoit1521
 Mail : be.niveau@hotmail.fr
+
+Actuellement :  Développeur web chez marredechercher.fr 
 ______________________________________________________________________
 Charles : Geek - Attentif - Assidu.
 
@@ -40,6 +42,8 @@ Dans une entreprise me caractérisant.
 Linked : https://www.linkedin.com/in/charles-crepin-b42819170/
 Github : https://github.com/CharlesC51
 Mail : c.crepin@net-c.fr
+
+Actuellement :  Stage développeur web : Marredechercher 
 ______________________________________________________________________
 Corentin : Flexible - A l'écoute - Assidu
 
@@ -83,6 +87,8 @@ En Freelance ou dans une start-up
 Linked : https://www.linkedin.com/in/fabien-raymond-41227114b
 Github : https://github.com/voortexx
 Mail : https://kawacke.github.io/Projet-1-LeBookDesWilders/#
+
+Actuellement :  Stagiaire Développeur Front chez Sport Heroes Group 
 ______________________________________________________________________
 Florentin : Ponctuel - Persévérant - Calme
 
@@ -104,6 +110,7 @@ En poste dans une compagnie à l'ambiance sympathique
 Linked : https://www.linkedin.com/in/florentin-coyard-72a10016b/
 Github : https://github.com/Takoouh
 Mail : florentin.coyard@gmail.com
+Actuellement : Stagiaire en développement Web et application chez User Agency
 ______________________________________________________________________
 Gautier : A l'écoute - Souriant - Discret.
 
@@ -146,6 +153,7 @@ Je me vois dans une agence web, type start up
 Linked : https://www.linkedin.com/in/leuthsouline-chanthathirath-776723170/
 Github : https://github.com/Astouline
 Mail : r.leuthsouline@gmail.com
+Actuellement :  Graphiste chez Upkaze 
 ______________________________________________________________________
 Mathieu : Dynamisme - Ponctualité - Persévérance
 
@@ -167,6 +175,7 @@ Je souhaiterais travailler en freelance, créer une startup à plusieurs, ou dan
 Linked : https://www.linkedin.com/in/mathieu-thomas-pro
 Github : https://github.com/Kawacke
 Mail : kawacke@gmail.com
+Actuellement : Stagiaire developpeur React Native Utronix
 ______________________________________________________________________
 Michael : Rigoureux - Adaptabilité
 
@@ -188,6 +197,7 @@ Je me vois dans une entreprise dans un secteur qui me plairait (jeux vidéos) et
 Linked : https://www.linkedin.com/in/micha%C3%ABl-bourmeau-4b19b7170/
 Github : https://github.com/NovaaHD
 Mail : michael.bourmeau@outlook.fr
+Actuellement : Stagiaire Développeur application mobile React Native : Alphitan Group 
 ______________________________________________________________________
 Michel : Créatif - Souriant - Motivé
 
@@ -209,6 +219,7 @@ Je me vois bien avec une petite équipe de développeurs web dans une entreprise
 Linked : https://www.linkedin.com/feed/?trk=nav_logo
 Github : https://github.com/mde51
 Mail : micheldescotes65@gmail.com
+Actuellement : Stagiaire Fullstack React Node.js chez DSIT Grand Reims 
 ______________________________________________________________________
 Quentin : Optimiste - Curieux - Collectif
 
@@ -251,4 +262,5 @@ Là où je saurai trouver ma place !
 Linked : https://www.linkedin.com/in/robin-guerre-256161152/
 Github : https://github.com/Sheoo
 Mail : rb.guerre@gmail.com
+Actuellement : Développeur Web - stage chez Retrokube 
 _________

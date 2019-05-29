@@ -28,16 +28,21 @@
   font-family: "Varela Round", sans-serif;
   font-weight: 400;
   }
+ 
+  
   p
   {
     font-size: 15px;
   }
-
+  .card{
+  margin: auto;
+  }
 }
 
 
 @media screen and (min-width: 768px)
 {
+
     /* Hover */
     .card{position:relative;margin-left: 1%;}
     .card:hover {background-color: rgba(0, 0, 0, 0.3);}
@@ -50,7 +55,7 @@
     .card:hover .title{opacity:1}
     .card .title{padding:10px 0;color:#fff;margin:0;border-top:2px solid #fff;border-bottom:2px solid #fff}
     @media only screen and (max-width:990px){.card{margin-bottom:20px}
-  }
+
 }
 
 .btn {
@@ -66,11 +71,12 @@
   background-color: #f3c677;
 
 }
-
-
+.row{ justify-content: space-around;
+align-items: center;
+}
 
 .card-img-top {
-  border-radius: 15px;
+  border-radius: 2px;
   width: 80%;
   height: auto;
   margin: auto;
@@ -98,6 +104,9 @@ body
   text-align: center;
   box-shadow: 3px 3px grey;
   max-width: 300px;
+  margin: 1%;
+  height: 450px;
+  
 }
 
 .github, .linkedin{
