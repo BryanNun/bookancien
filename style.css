@@ -117,14 +117,15 @@
 {
   display: block;
   margin : auto;
-  background-color: #f3a61f;
+  background-color: #495867;
   color: white;
   border: 1px solid black;
 }
 
 .btn:hover 
 {
-  background-color: #f3c677;
+  background-color: #ffffff;
+  color: #495867;
 
 }
 
@@ -134,9 +135,9 @@
   align-items: center;
 }
 
-.card-img-top 
+.card-img-top
 {
-  border-radius: 2px;
+  border-radius: 3px;
   width: 80%;
   height: auto;
   margin: auto;
@@ -145,14 +146,14 @@
 
 footer
 {
-  background-color: #646363;
+  background-color: #F47173;
   color: white;
   margin-top: 5%;
 }
 
 body
 {
-  background-color: #DFDFDF;
+  background-color: #ecc8af;
   font-family: 'Roboto', 'Helvetica Neue', Arial, Helvetica, sans-serif;
 }
 
@@ -170,4 +171,19 @@ body
 .github, .linkedin
 {
   width: 15%;
+}
+
+h2
+{
+  color: #223843;
+}
+
+.text-muted
+{
+  font-size: 8px;
+}
+
+.hyperl
+{
+  color: #495867;
 }
