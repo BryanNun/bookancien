@@ -1,14 +1,223 @@
-Anahita
-Anthony
-Arnaud Deschamp
-Arnaud Gadroy
-Aurélie Bayre
-Dorian
-Florian
-Khalid
-Maxence
-Max
-Philippe
-Pierre
-Tanguy 
-Thibaud
+Anahita : La fierté sous contrôle
+
+Anahita souhaite travailler dans une start-up et pourquoi pas dans le domaine du jeux vidéo.
+
+Description
+Contrairement à la plupart des gens, Anahita à toujours aimé la “paperasse”. Dans un premier temps elle s’est donc intéressée aux métiers administratifs. Mais sa passion informatique de toujours étant plus forte, elle a décidé de se saisir d’une opportunité : vendeuse en jeux vidéo ! Après cette aventure riche en émotions, elle a décidé de se réorienter vers le développement web pour allier son côté geek et amour de l’informatique.
+
+Son côté Wild
+Passionnée de jeux vidéo, de manga et d’animation japonaise, Anahita peut passer des heures dans les contrées sauvages imaginaires avec son fidèle chat pour lui tenir chaud. Enfin ça c’était avant d’avoir un bébé et de se mettre au code !
+
+
+Git : https://github.com/Erenude
+Linked : https://www.linkedin.com/in/anahita-vahdani-39736215a/
+Mail : anahita.vahdani@neuf.fr
+_________________________________________________________________
+Anthony : Curieux & motivé
+
+Il voudrait étendre ses compétences dans l'univers de la tech.
+
+
+Description
+Anthony a commencé en restauration puis après des études en logistique a travaillé 5 ans dans ce domaine avant de choisir une branche qui le passionne vraiment : le Web !
+
+Son côté Wild
+Anthony aime tous les sports et le heavy metal ! Il n'a pas peur d'appréhender les nouvelles technologies.
+
+
+Git : https://github.com/anto999
+Linked : https://www.linkedin.com/in/anthony-fischer-62436115a/
+Mail : anthonyfischer@free.fr
+_________________________________________________________________
+Arnaud Deschamp : Captivé & captivant !
+
+Arnaud met ses compétences au service de vos projets
+
+Description
+Double compétence = Master en Achats bac+5 + Développement Web
+
+Son côté Wild
+Arnaud est aussi à l'aise dans la nature que devant un ordi.
+
+Git : https://github.com/arnauddchamps
+Linked : https://www.linkedin.com/in/arnaud-deschamps-2aa5183a/
+Mail : arnaud.dchamps@gmail.com
+_________________________________________________________________
+Arnaud Gadroy ; Curieux, intéressé et créatif
+
+Arnaud souhaite intégrer une entreprise souhaitant recruter un développeur Javascript/React/PHP FULLSTACK.
+
+
+Description
+Infographiste depuis 16 années,Arnaud maîtrise parfaitement la chaîne graphique ainsi que la suite Adobe Creative Cloud.
+
+Son côté Wild
+Arnaud n'hésite pas à troquer son clavier contre une paire de baskets et est très intéressé par la psychologie et la spiritualité.
+
+
+Git : https://github.com/raspnotification
+Linked : https://www.linkedin.com/in/arnaud-gadroy-63136115a/
+Mail : arno.gadroy@free.fr
+_________________________________________________________________
+Aurélie Bayre : Curieuse, passionnée, observatrice
+
+Enseignante-chercheuse en littérature américaine puis professeur de relaxation, Aurélie n'a de cesse d'apprendre et d'explorer de nouveaux domaines. C'est ainsi qu'elle a commencé à coder en autodidacte.
+
+Elle sinspire du Tai-chi-chuan pour coder zen
+
+Git : https://github.com/AurelieBayre
+Linked : https://www.linkedin.com/in/aureliebayre/
+Mail : a.bayre@gmail.com
+_________________________________________________________________
+Dorian : Anticipateur, consciencieux & tempéré
+
+Dorian aimerait pouvoir mettre en œuvre ses compétences au sein d'un cadre de travail dynamique et jeune. Il apprécie de travailler dans des petites communautés et pourquoi pas une Start Up ?
+
+Description
+Après une faculté de droit, il a commencé à travailler dans le secteur logistique où il resta une dizaine d'année. Voyant l’émergence des métiers du numérique et étant fasciné par les ordinateurs et les langages il entreprit de rejoindre la Wild pour apprendre ce nouveau métier.
+
+Son côté Wild
+Adepte des arts martiaux et passionné par le Japon il a fait plusieurs sports avant de se concentrer sur le kendo, l'escrime japonaise.
+
+
+Git : https://github.com/Cynnah
+Linked : https://www.linkedin.com/in/dorian-massot-10b839151/
+Mail : massot.dorian@gmail.com
+_________________________________________________________________
+Florian : Gentil, efficace & méthodique
+
+Florian a déjà effectué un stage au sein d'une agence web. Son employeur a promis de l'embaucher si, et seulement si, il se formait davantage.
+
+Description
+La Wild Code School est pour lui un coup de poker: si ça aboutit à un contrat avec son ancien employeur, il pourra être fier de lui !
+
+Son côté Wild
+Quand on le défie dans une partie de Mario Kart, c'est prouvé, on ne peut pas rivaliser avec lui !
+
+Git : https://github.com/El-Loco-Pinguino
+Linked : https://www.linkedin.com/in/florian-hourlier-3477b715a/
+Mail : florian.hourlier@hotmail.fr
+_________________________________________________________________
+Khalid : Persévérant
+
+Réussir, c'est déjà pas mal !
+
+Description
+Double compétence = Management Secteur Logistique = Développement Web
+
+Son côté Wild
+Khalid aime le Rétro-Gaming sur le Raspberry.
+
+Git : https://github.com/K-Lid
+Linked : https://lielust.github.io/book_project.io/#
+Mail : khalid51000@gmail.com
+_________________________________________________________________
+Maxence : Rigoureux, flexible, ouvert d'esprit
+
+Maxence souhaite faire ses armes pour votre entreprise et réfléchit à ouvrir sa propre structure à terme (probablement dans le domaine du jeu vidéo).
+
+Description
+Maxence a fait un bac en boulangerie pâtisserie. Après avoir obtenu ses diplômes, il a travaillé un peu dans cette branche et a commencé à coder en parallèle en autodidacte. Il a développé différents jeux vidéo avant de se lancer dans l'aventure Wild code School.
+
+Son côté Wild
+Une fois lancé dans un projet (aussi bien personnel que professionnel) rien ne peut l'arrêter.
+
+Git : https://github.com/LieLust
+Linked : https://www.linkedin.com/feed/
+Mail : maxence.millescamps.macarty@gmail.com
+_________________________________________________________________
+Max : Curieux & Bienveillant
+
+Max aimerait beaucoup travailler en tant que dev web dans une grande entreprise.
+
+Description
+Max a des compétences dans l'audiovisuel en plus de ses nouvelles compétences de Développeur
+
+Son côté Wild
+Max aime les jeux-vidéos mais il aime encore plus les jeux de rôle ou de carte !
+
+Git : https://github.com/GalloisMax
+Linked : https://www.linkedin.com/in/max-gallois-08112315b/
+Mail : max.gallois@outlook.fr
+_________________________________________________________________
+Philippe : Heureux, & obstiné
+
+Philippe va développer des projets géniaux et il va intégrer une entreprise géniale. 
+
+Git : https://github.com/PhiTarte
+Linked : https://www.linkedin.com/in/philippe-tarte-402882136/
+Mail : tarteserviceinformatique@sfr.fr
+_________________________________________________________________
+Pierre : Volontaire et attentif aux moindres détails
+
+Pierre souhaite s'épanouir pleinement au sein d'une startup innovante.
+
+
+Description
+Pierre est passionné par l'informatique en général depuis son plus jeune âge, il est issu d'un baccalauréat professionnel SEN TR (Système électronique numérique télécommunication et réseau). Pierre à voulu se spécialiser dans le développement web.
+
+Son côté Wild
+Pierre aime entreprendre, il est toujours à la recherche d'idées innovantes pour révolutionner le monde. Aux dernières nouvelles il serait en train de réaliser un site pour un Cerf...
+
+
+Git : https://github.com/PierreDmyy
+Linked : https://www.linkedin.com/in/pierre-dumay-278182141/
+Mail : contact@dumay-pierre.fr
+_________________________________________________________________
+Tanguy : Impliqué
+
+Tanguy souhaite rentrer dans une startup afin de la faire évoluer, mettre à profit ses compétences, apprendre de nouveaux langages afin de s'améliorer au fil des années.
+
+Description
+Tanguy a été en BTS comptabilité, mais faire des factures ne lui convenait pas. Du coup il a enchaîné divers métiers en intérim avant de rejoindre l'armée. Aujourd’hui, Tanguy trouve sa voie dans le Développement Web via la Wild Code School !
+
+Son côté Wild
+Il est obstiné à réussir !
+
+
+Git : https://github.com/artshow
+Linked : https://www.linkedin.com/in/tanguy-marlot-997bb514a/
+Mail : marlot.tanguy@orange.fr
+_________________________________________________________________
+Thibaud : Persévérant & esprit d'équipe
+
+Thibaud se forme actuellement afin d’être capable de créer de manière autonome des sites web ainsi que proposer ses compétences pour développer les projets de ses futur clients.
+
+Description
+Thibaud a travaillé à la Fnac pendant ses études en Psychologie. Il est parti découvrir le Japon pendant six semaines en 2013. Suite à ce voyage, il s'est demandé comment partager son expérience avec les autres. Pour cela il s'est intéressé à la réalisation de site web.
+
+Son côté Wild
+Culture Japonaise sous toutes ses formes !
+
+ 
+Git : https://github.com/GautamaB
+Linked : https://www.linkedin.com/in/thibaud-royer-93a7b715a/
+Mail : royer.thibaud@outlook.com
+_________________________________________________________________
+FORMATEUR
+_________________________________________________________________
+Clement Bechetoille : Campus Manager, Reims
+
+
+Description
+Diplômé de l’ESSCA d’Angers, Clément a d’abord travaillé à des fonctions marketing dans l’édition et les objets éducatifs avant de développer son expérience dans l’enseignement supérieur au Vietnam puis en France sur les sujets d’insertion professionnelle, de développement personnel et de recrutement innovant. Basé à Reims depuis quelques années, il s’implique dans les initiatives locales notamment l’organisation de TEDxReims. Passionné par les nouvelles approches pédagogiques, il a rejoint la Wild Code School comme Campus Manager à Reims
+
+Son côté Wild
+Aller à la découverte des cultures du monde, en Asie notamment, et surtout de tout ce qui se mange !
+
+
+Linked : https://www.linkedin.com/in/clementbechetoille/
+Mail : clement@wildcodeschool.fr
+_________________________________________________________________
+Thomas CULDAUT : Formateur JS, Reims
+
+Description
+Après des études en informatique, Thomas a tout de suite lié la pratique du développement et de la pédagogie dans le monde de la formation professionnelle en France et au Cameroun. S’ensuit une expérience dans une startup parisienne spécialisée dans le développement d’application événementielle au sein de laquelle il développe des jeux en AS3, Unity et PHP/JavaScript. Cela le mène à diriger une équipe de dév en Inde où il gère la réalisation de projets web.
+
+Son côté Wild
+Amateur de jeu de rôle, de plateau et de stratégie à base de figurines, quand il ne code pas Thomas peut passer des heures entre amis autour d’un jeu.
+
+Linked : https://www.linkedin.com/in/thomas-culdaut-76ba593/
+Mail : thomas@wildcodeschool.fr
+
+

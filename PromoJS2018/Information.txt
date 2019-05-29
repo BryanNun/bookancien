@@ -1,13 +1,254 @@
-Benoit
-Charles
-Corentin
-Fabien
-Florentin
-Gautier
-Leuthsoulin
-Mathieu
-Michael
-Michel
-Quentin
-Robin
+Benoit :  Ouvert d'esprit - Sociable - Tranquille
 
+Mobilité professionnelle
+Reims, Paris
+
+Langage de programmation pratiqué
+HTML, CSS, JS React
+
+Quelle est ta place dans un groupe ?
+Tout est fonction de la composition du groupe, des caractères qui le compose ou des compétences de ceux qui le compose. Je peux autant être en avant qu'en retrait ou au service du groupe. Si je dois être en avant du groupe, j'ai besoin de maîtriser ce que j'expose.
+
+Pourquoi avoir choisi le code ?
+J'ai choisi le code pour donner une orientation nouvelle à ma carrière professionnelle et surtout pour exercer dans un domaine qui me passionne de jour en jour. Domaine dans lequel j'ai encore beaucoup à apprendre et c'est ce qui me motive.
+
+Où te vois-tu demain ?
+En train de coder et d'acquérir de l’expérience dans ce domaine et enfin m'épanouir professionnellement.
+
+
+Linked : https://www.linkedin.com/in/beno%C3%AEt-niveau-a34ba9133
+Github : https://github.com/benoit1521
+Mail : be.niveau@hotmail.fr
+______________________________________________________________________
+Charles : Geek - Attentif - Assidu.
+
+Mobilité professionnelle
+Nationale
+
+Langage de programmation pratiqué
+Javascript / Bootstrap4 / React
+
+Quelle est ta place dans un groupe ?
+Je suis là pour fournir mes compétences et aider les autres au maximum.
+
+Pourquoi avoir choisi le code ?
+Etant geek depuis tout petit, il me fallait un métier en rapport avec l'informatique. J'ai découvert le code grâce a un article parlant d'une école accessible aux débutants puis j'ai commencé à coder et j'aime ça.
+
+Où te vois-tu demain ?
+Dans une entreprise me caractérisant.
+
+Linked : https://www.linkedin.com/in/charles-crepin-b42819170/
+Github : https://github.com/CharlesC51
+Mail : c.crepin@net-c.fr
+______________________________________________________________________
+Corentin : Flexible - A l'écoute - Assidu
+
+Mobilité professionnelle
+Reims
+
+Langage de programmation pratiqué
+Html, Css(bootstrap), JS(React)
+
+Quelle est ta place dans un groupe ?
+Je m'adapte par rapport aux profils présents dans le groupe.
+
+Pourquoi avoir choisi le code ?
+La liberté de création avec énormément de possibilités.
+
+Où te vois-tu demain ?
+En entreprise avec toujours un projet personnel dans le coin de la tête.
+
+Linked : https://www.linkedin.com/in/corentin-de-soto-cobet-b5b78b170/
+Github : https://github.com/CorentinReims
+Mail : corentin.dsc@gmail.com
+______________________________________________________________________
+Fabien : Collectif - Sérieux - Sportif
+
+Mobilité professionnelle
+Grand-Est
+
+Langage de programmation pratiqué
+HTML/CSS, PHP, MySQL, Bootstrap, JQuery
+
+Quelle est ta place dans un groupe ?
+Médiateur ou Organisateur
+
+Pourquoi avoir choisi le code ?
+Le code nous permet de répondre à des besoins, créer des projets qui seront utiles à d'autres personnes.
+A partir d'une idée, apporter quelque chose de concret.
+
+Où te vois-tu demain ?
+En Freelance ou dans une start-up
+
+Linked : https://www.linkedin.com/in/fabien-raymond-41227114b
+Github : https://github.com/voortexx
+Mail : https://kawacke.github.io/Projet-1-LeBookDesWilders/#
+______________________________________________________________________
+Florentin : Ponctuel - Persévérant - Calme
+
+Mobilité professionnelle
+Reims
+
+Langage de programmation pratiqué
+HTML-CSS-REACT.js
+
+Quelle est ta place dans un groupe ?
+Je donne des idées et des solutions aux contraintes
+
+Pourquoi avoir choisi le code ?
+Je trouve fascinant le fait de taper des lignes de codes et voir un site se mettre en forme !
+
+Où te vois-tu demain ?
+En poste dans une compagnie à l'ambiance sympathique
+
+Linked : https://www.linkedin.com/in/florentin-coyard-72a10016b/
+Github : https://github.com/Takoouh
+Mail : florentin.coyard@gmail.com
+______________________________________________________________________
+Gautier : A l'écoute - Souriant - Discret.
+
+Mobilité professionnelle
+Région Champagne-Ardenne
+
+Langage de programmation pratiqué
+html, css, javascript
+
+Quelle est ta place dans un groupe ?
+Discret
+
+Pourquoi avoir choisi le code ?
+Par passion de l'informatique
+
+Où te vois-tu demain ?
+Développeur Web
+
+Linked : https://www.linkedin.com/in/gautier-simonin-63a191170/
+Github : https://github.com/Gautier08
+Mail : gautier08000@hotmail.com
+______________________________________________________________________
+Leuthsoulin : Persévérante - Rigoureuse - Aimable
+
+Mobilité professionnelle
+Marne - Ile de France
+
+Langage de programmation pratiqué
+HTML 5 - CSS3 - Javascript
+
+Quelle est ta place dans un groupe ?
+Je ne suis pas leader mais je participe activement au projet, je donne mes observations et mes idées
+
+Pourquoi avoir choisi le code ?
+Par goût du défi
+
+Où te vois-tu demain ?
+Je me vois dans une agence web, type start up
+
+Linked : https://www.linkedin.com/in/leuthsouline-chanthathirath-776723170/
+Github : https://github.com/Astouline
+Mail : r.leuthsouline@gmail.com
+______________________________________________________________________
+Mathieu : Dynamisme - Ponctualité - Persévérance
+
+Mobilité professionnelle
+Ardennes - Marne
+
+Langage de programmation pratiqué
+HTML5 / CSS3 / Bootstrap 4 / PHP / JS REACT
+
+Quelle est ta place dans un groupe ?
+Je suis à l'écoute des membres du groupe, afin de mettre en commun toutes les idées.
+
+Pourquoi avoir choisi le code ?
+Je suis tombé dedans quand jétait jeune, j'ai démarré en autodidacte, et j'ai souhaité poursuivre avec une formation pour apprendre une structure de travail.
+
+Où te vois-tu demain ?
+Je souhaiterais travailler en freelance, créer une startup à plusieurs, ou dans une startup en devenir,
+
+Linked : https://www.linkedin.com/in/mathieu-thomas-pro
+Github : https://github.com/Kawacke
+Mail : kawacke@gmail.com
+______________________________________________________________________
+Michael : Rigoureux - Adaptabilité
+
+Mobilité professionnelle
+Nationale
+
+Langage de programmation pratiqué
+Bootstrap / JS / React
+
+Quelle est ta place dans un groupe ?
+Chef de groupe
+
+Pourquoi avoir choisi le code ?
+Car depuis plusieurs années, j'aime coder des petites choses et je voulais en faire mon métier
+
+Où te vois-tu demain ?
+Je me vois dans une entreprise dans un secteur qui me plairait (jeux vidéos) et pourquoi pas en Freelance
+
+Linked : https://www.linkedin.com/in/micha%C3%ABl-bourmeau-4b19b7170/
+Github : https://github.com/NovaaHD
+Mail : michael.bourmeau@outlook.fr
+______________________________________________________________________
+Michel : Créatif - Souriant - Motivé
+
+Mobilité professionnelle
+Région de Reims et les Ardennes
+
+Langage de programmation pratiqué
+HTML-CSS JS-React
+
+Quelle est ta place dans un groupe ?
+Je suis capable de travailler avec beaucoup de personnes très différentes
+
+Pourquoi avoir choisi le code ?
+Pour exploiter ma créativité en créant des lignes de codes
+
+Où te vois-tu demain ?
+Je me vois bien avec une petite équipe de développeurs web dans une entreprise ou alors en freelance.
+
+Linked : https://www.linkedin.com/feed/?trk=nav_logo
+Github : https://github.com/mde51
+Mail : micheldescotes65@gmail.com
+______________________________________________________________________
+Quentin : Optimiste - Curieux - Collectif
+
+Mobilité professionnelle
+Grand-Est - Hauts-De-France - Ile-de-France
+
+Langage de programmation pratiqué
+HTML / CSS - JavaScript / React
+
+Quelle est ta place dans un groupe ?
+J'aime apporter mes idées au projet, toujours a l'écoute de mes coéquipiers.
+
+Pourquoi avoir choisi le code ?
+Car ce n'est pas statique, il y a toujours des évolutions, de nouvelles choses à apprendre et à perfectionner. Pour moi, il n'y a rien de plus satisfaisant que de passer d'une page blanche à un projet abouti.
+
+Où te vois-tu demain ?
+Je me vois, dans une startup ou bien en entreprise en train de travailler sur un projet avec une équipe, tout en découvrant de nouveaux langages de programmation.
+
+Linked : https://www.linkedin.com/in/quentin-da-silva-50b58b16b/
+Github : https://github.com/quentinsd
+Mail : quentin_51@live.fr
+_______________________________________________________________________
+Robin : Calme - Curieux - Passionné
+
+Mobilité professionnelle
+Reims - Paris
+
+Langage de programmation pratiqué
+JavaScript, Python, Java(bases)
+
+Quelle est ta place dans un groupe ?
+Soutien et diplomate
+
+Pourquoi avoir choisi le code ?
+Pour maîtriser un domaine qui lie tous mes centres d'intérêts
+
+Où te vois-tu demain ?
+Là où je saurai trouver ma place !
+
+Linked : https://www.linkedin.com/in/robin-guerre-256161152/
+Github : https://github.com/Sheoo
+Mail : rb.guerre@gmail.com
+_________
