@@ -8,6 +8,7 @@ Contrairement à la plupart des gens, Anahita à toujours aimé la “paperasse�
 Son côté Wild
 Passionnée de jeux vidéo, de manga et d’animation japonaise, Anahita peut passer des heures dans les contrées sauvages imaginaires avec son fidèle chat pour lui tenir chaud. Enfin ça c’était avant d’avoir un bébé et de se mettre au code !
 
+Développeur Web Javascript React - à l'écoute du marché 
 
 Git : https://github.com/Erenude
 Linked : https://www.linkedin.com/in/anahita-vahdani-39736215a/
@@ -28,6 +29,7 @@ Anthony aime tous les sports et le heavy metal ! Il n'a pas peur d'appréhender 
 Git : https://github.com/anto999
 Linked : https://www.linkedin.com/in/anthony-fischer-62436115a/
 Mail : anthonyfischer@free.fr
+Actuellement :  développeur web chez DACTYLE 
 _________________________________________________________________
 Arnaud Deschamp : Captivé & captivant !
 
@@ -42,6 +44,7 @@ Arnaud est aussi à l'aise dans la nature que devant un ordi.
 Git : https://github.com/arnauddchamps
 Linked : https://www.linkedin.com/in/arnaud-deschamps-2aa5183a/
 Mail : arnaud.dchamps@gmail.com
+Actuellement : Développeur web JavaScript-NodeJS-React chez Meduza Agency
 _________________________________________________________________
 Arnaud Gadroy ; Curieux, intéressé et créatif
 
@@ -58,6 +61,7 @@ Arnaud n'hésite pas à troquer son clavier contre une paire de baskets et est t
 Git : https://github.com/raspnotification
 Linked : https://www.linkedin.com/in/arnaud-gadroy-63136115a/
 Mail : arno.gadroy@free.fr
+Actuellement : En recherche d'emploi
 _________________________________________________________________
 Aurélie Bayre : Curieuse, passionnée, observatrice
 
@@ -68,6 +72,7 @@ Elle sinspire du Tai-chi-chuan pour coder zen
 Git : https://github.com/AurelieBayre
 Linked : https://www.linkedin.com/in/aureliebayre/
 Mail : a.bayre@gmail.com
+Actuellement : Développeuse chez DaTeam
 _________________________________________________________________
 Dorian : Anticipateur, consciencieux & tempéré
 
@@ -83,6 +88,7 @@ Adepte des arts martiaux et passionné par le Japon il a fait plusieurs sports a
 Git : https://github.com/Cynnah
 Linked : https://www.linkedin.com/in/dorian-massot-10b839151/
 Mail : massot.dorian@gmail.com
+Actuellement : En recherche d'emploi
 _________________________________________________________________
 Florian : Gentil, efficace & méthodique
 
@@ -97,6 +103,7 @@ Quand on le défie dans une partie de Mario Kart, c'est prouvé, on ne peut pas 
 Git : https://github.com/El-Loco-Pinguino
 Linked : https://www.linkedin.com/in/florian-hourlier-3477b715a/
 Mail : florian.hourlier@hotmail.fr
+Actuellement : Developpeur web front end chez Un Zéro Un
 _________________________________________________________________
 Khalid : Persévérant
 
@@ -109,8 +116,9 @@ Son côté Wild
 Khalid aime le Rétro-Gaming sur le Raspberry.
 
 Git : https://github.com/K-Lid
-Linked : https://lielust.github.io/book_project.io/#
+Linked : https://www.linkedin.com/in/khalid-el-idrissi-a9a36115a/
 Mail : khalid51000@gmail.com
+Actuellement : En recherche d'emploi
 _________________________________________________________________
 Maxence : Rigoureux, flexible, ouvert d'esprit
 
@@ -125,6 +133,7 @@ Une fois lancé dans un projet (aussi bien personnel que professionnel) rien ne 
 Git : https://github.com/LieLust
 Linked : https://www.linkedin.com/feed/
 Mail : maxence.millescamps.macarty@gmail.com
+Actuellement : Recherche d'emploi
 _________________________________________________________________
 Max : Curieux & Bienveillant
 
@@ -139,14 +148,22 @@ Max aime les jeux-vidéos mais il aime encore plus les jeux de rôle ou de carte
 Git : https://github.com/GalloisMax
 Linked : https://www.linkedin.com/in/max-gallois-08112315b/
 Mail : max.gallois@outlook.fr
+Actuellement : Développeur chez Karols
 _________________________________________________________________
 Philippe : Heureux, & obstiné
 
 Philippe va développer des projets géniaux et il va intégrer une entreprise géniale. 
 
+Description
+Philippe a fait du dépannage pour du matériel informatique. Il a assisté des utilisateurs multiples.
+
+Son côté Wild
+GRRRRRRRRR !!!
+
 Git : https://github.com/PhiTarte
 Linked : https://www.linkedin.com/in/philippe-tarte-402882136/
 Mail : tarteserviceinformatique@sfr.fr
+Actuellement : recherche d'emploi 
 _________________________________________________________________
 Pierre : Volontaire et attentif aux moindres détails
 
@@ -163,6 +180,7 @@ Pierre aime entreprendre, il est toujours à la recherche d'idées innovantes po
 Git : https://github.com/PierreDmyy
 Linked : https://www.linkedin.com/in/pierre-dumay-278182141/
 Mail : contact@dumay-pierre.fr
+Actuellement : en recherche d'emploi
 _________________________________________________________________
 Tanguy : Impliqué
 
@@ -178,6 +196,7 @@ Il est obstiné à réussir !
 Git : https://github.com/artshow
 Linked : https://www.linkedin.com/in/tanguy-marlot-997bb514a/
 Mail : marlot.tanguy@orange.fr
+Actuellement : Développeur web chez Meduza Angancy
 _________________________________________________________________
 Thibaud : Persévérant & esprit d'équipe
 
@@ -193,6 +212,7 @@ Culture Japonaise sous toutes ses formes !
 Git : https://github.com/GautamaB
 Linked : https://www.linkedin.com/in/thibaud-royer-93a7b715a/
 Mail : royer.thibaud@outlook.com
+Actuellement : Recherche d'emploi
 _________________________________________________________________
 FORMATEUR
 _________________________________________________________________
