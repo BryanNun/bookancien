@@ -38,8 +38,18 @@
 
 @media screen and (min-width: 768px)
 {
-  .card{
-    margin-left: 1%;
+    /* Hover */
+    .card{position:relative;margin-left: 1%;}
+    .card:hover {background-color: rgba(0, 0, 0, 0.3);}
+    .card:hover .card-img-top{opacity: 0.3;}
+    .card .title,.card:after{position:absolute;transition:all .3s ease 0s}
+    .card:after{content:"";width:65%;background:rgba(28,28,28,.8);padding-bottom:65%;opacity:0;top:50%;left:50%;transform:rotate(0) translate(-50%,-50%);transform-origin:0 0 0}
+    .card:hover:after{transform:rotate(-45deg) translate(-50%,-50%);opacity:1}
+    .card img{width:100%;height:auto}
+    .card .title{width:100%;top:35%;left:0;opacity:0;z-index:1}
+    .card:hover .title{opacity:1}
+    .card .title{padding:10px 0;color:#fff;margin:0;border-top:2px solid #fff;border-bottom:2px solid #fff}
+    @media only screen and (max-width:990px){.card{margin-bottom:20px}
   }
 }
 
@@ -90,7 +100,8 @@ body
   max-width: 300px;
 }
 
-  .github, .linkedin{
+.github, .linkedin{
     width: 15%;
-  }
+}
+
 
