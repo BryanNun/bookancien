@@ -35,7 +35,7 @@
     font-size: 15px;
   }
   .card{
-  margin-left: 10%;
+  margin: auto;
   }
 }
 
@@ -60,11 +60,12 @@
   background-color: #f3c677;
 
 }
-
-
+.row{ justify-content: space-around;
+align-items: center;
+}
 
 .card-img-top {
-  border-radius: 15px;
+  border-radius: 2px;
   width: 80%;
   height: auto;
   margin: auto;
@@ -93,6 +94,9 @@ body
   text-align: center;
   box-shadow: 3px 3px grey;
   max-width: 300px;
+  margin: 1%;
+  height: 450px;
+  
 }
 
   .github, .linkedin{
