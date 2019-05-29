@@ -7,7 +7,7 @@ Mobilité : Partout et nulle part
 Contact : l.alexispro@gmail.com 
 Github : https://gist.github.com/l-alexis
 Linked : https://www.linkedin.com/in/alexis-legrand-8a747b173/
-
+Actuellement : Développeur informatique chez Atol Conseils et Développements
 ________________________________________________________________________________________________
 Anabelle : Quand y'a un problème, y'a une solution.
 
@@ -18,7 +18,7 @@ Mobilité : Grand Est
 Contact : baynardanabelle@gmail.com 
 Github : https://github.com/blackadder2509
 Linked : https://judubois.github.io/book-des-wilders/photos/logo_linkedin.png
-
+Actuellement : Développeuse web stagiaire chez CCI Marne en Champagne 
 ________________________________________________________________________________________________
 ERWAN : Super motivé
 
@@ -29,6 +29,7 @@ Mobilité : France
 Contact : erwan.geneve51@gmail.com 
 Github : https://github.com/ExoNihilo
 Linked :https://www.linkedin.com/in/erwan-geneve-537b99172/
+Actuellement : Stagiaire chez Thales Group
 ________________________________________________________________________________________________
 Gaetan : Je suis une personne Dynamique Je suis une personne dynamique et déterminée, je saurai mettre toutes mes compétences à votre service.
 
@@ -37,8 +38,8 @@ Langages maitrisés : HTML - CSS - JAVA
 Mobilité : Champagne-Ardenne - Nancy - Canada
 
 Contact : evrardg92@gmail.com 
-Linked : https://www.linkedin.com/in/unavailable/
 Github : https://github.com/Evrardg
+Actuellement : en recherche d'emploi 
 ______________________________________________________________________________________________________________________________
 Justine : Passionnée de web, j’aime travailler en équipe et mettre à profit ma créativité.
 
@@ -49,7 +50,7 @@ Mobilité : France
 Contact : justine.dubois.pro@gmail.com 
 Github : https://github.com/JuDubois
 Linked : https://www.linkedin.com/in/justine-dubois-pro/
-
+Actuellement : Stagiaire chez Dateam
 _______________________________________________________________________________________________________________
 Lucas : Rigoureux et dynamique, je suis prêt à mettre mon savoir-faire à votre service.
 
@@ -60,6 +61,7 @@ Mobilité : France
 Contact : mouraud.lucas@gmail.com 
 Github : https://github.com/LucasMouraud
 Linked : https://www.linkedin.com/in/lucas-mouraud-chasset-4b7b99172/
+Actuellement : En recherche d'emploi
 ________________________________________________________________________________________________
 Marthe : Persévérance et esprit d'équipe sont mes maîtres-mots.
 
@@ -70,6 +72,7 @@ Mobilité : France - Québec
 Contact : marthe.charpy@gmail.com 
 Github : https://judubois.github.io/book-des-wilders/photos/logo_github.png
 Linked : https://www.linkedin.com/in/marthe-charpy-38ab99172/
+Actuellement : Développeur web stagiaire chez Alphamosa
 ________________________________________________________________________________________________
 Mohamedk : Créatif et rigoureux, je suis toujours désireux d'apprendre et de mettre mes compétences au profit du travail d'équipe.
 
@@ -80,6 +83,7 @@ Mobilité : International - France
 Contact : mokalahri@gmail.com 
 Github : https://github.com/Methodtw
 Linked : https://www.linkedin.com/in/mohamed-kamel-lahri-348b99172/
+Actuellement : Développeur Web NodeJs/ Angular chez SNCF Réseau 
 ________________________________________________________________________________________________
 Mohamedl : Organisation, rigueur, dynamisme, aisance relationnelle, esprit d’équipe, sont quelques-unes des qualités que je propose de mettre à votre disposition.
 
@@ -90,6 +94,7 @@ Mobilité : Reims - Paris - Île de France - Lille
 Contact : muhamad.kaba@gmail.com 
 Github : https://github.com/Mokabza51
 Linked : https://www.linkedin.com/in/mohamed-kaba-243a6a173/
+Actuellement : recherche d'emploi
 ________________________________________________________________________________________________
 Nicolas : J'aime apprendre et comprendre ce que je fais.
 
@@ -100,6 +105,8 @@ Mobilité : Grand Est - Ile de France
 Contact : hifrcy@gmail.com 
 Github : https://github.com/hifrcy
 Linked : https://www.linkedin.com/in/nicolas-luzurier
+Actuellement : Développeur applications chez GROUPAMA SUPPORTS ET SERVICES
+
 ________________________________________________________________________________________________
 Tantely : Maya Diane Randria : Organisée et persévérante, je suis toujours prête à relever des défis et à partager de nouvelles expériences !
 
@@ -109,7 +116,8 @@ Mobilité : Reims - Hauts de France - Île de France
 
 Contact : tantely.tnr@gmail.com 
 Github : https://github.com/Ttl-10
-Linked :https://www.linkedin.com/in/maya-diane-r-555b99172/
+Linked : https://www.linkedin.com/in/maya-diane-tantely-r-555b99172/
+Actuellement : recherche d'emploi
 ________________________________________________________________________________________________
 
 Tony : "La meilleure façon de produire l'avenir est de le créer." - A. Lincoln
@@ -122,3 +130,4 @@ Contact : tony.chevris@gmail.com
 
 Github : https://github.com/TonyC51
 Linked : https://www.linkedin.com/in/tony-chevris-8abb98172/
+Actuellement : En recherche d'emploi
