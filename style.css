@@ -184,6 +184,8 @@ h1
 {
   color: white;
   text-align: center;
+  padding-top: 65px;
+  font-size: 50px;
 }
 
 .card
@@ -226,6 +228,7 @@ header
   padding-top: 2%;
   padding-bottom: 2%;
   border-bottom: 1px solid black;
+  font-size: 1.2em;
 }
 
 #artémis, #chronos, .intro
