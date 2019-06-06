@@ -43,6 +43,10 @@
   .card{
   margin: auto;
   }
+  .github,.linkedin{
+    width: 30%;
+  }
+
 }
 
 
@@ -51,6 +55,10 @@
 
     .logo2{
       padding-top: 5%;
+    }
+    .github, .linkedin
+    {
+      width: 15%;
     }
 
     /* Hover */
@@ -186,11 +194,6 @@ h1
   box-shadow: 3px 3px grey;
   max-width: 300px;
   margin: 1%;  
-}
-
-.github, .linkedin
-{
-  width: 15%;
 }
 
 h2
