@@ -5,9 +5,7 @@
   display: flex;
   align-content: center;
   }
-  .logo2{
-    margin: 10px;
-  }
+
 
   .intro
   {
@@ -18,22 +16,24 @@
   h1
   {
   margin: auto;
-  font-size: 30px;
+  font-size: 25px;
   color: black;
   font-weight: bold;
-  text-decoration: underline;
   font-family: "Varela Round", sans-serif;
   font-weight: 400;
+  padding-top: 20px;
   }
  
   .logo2
   {
     margin: auto;
+    width: 150px;
   }
 
   header
   {
     padding-bottom: 4%;
+    padding-top: 20%;
   } 
 
   p
@@ -48,6 +48,10 @@
 
 @media screen and (min-width: 992px)
 {
+
+    .logo2{
+      padding-top: 5%;
+    }
 
     /* Hover */
     .card 
@@ -119,6 +123,10 @@
 
 }
 
+.logo2{
+  padding-top: 5%;
+}
+
 .btn 
 {
   display: block;
@@ -166,7 +174,6 @@ body
 
 h1
 {
-  font-family: 'Roboto';
   color: white;
   text-align: center;
 }
